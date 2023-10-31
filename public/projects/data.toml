@@ -1,0 +1,17 @@
+[[project]]
+name = "Data Science project"
+desc = "In this project, machine learning algorithms are used to predict the price of a house based on its features."
+tags = ["data-science", "statistics"]
+links = [
+  { name = "", url = "" },
+  { name = "", url = "" },
+]
+
+[[project]]
+name = "Machine Learning Project"
+desc = "A short machine learning project. See links."
+tags = ["machine-learning", "statistics"]
+links = [
+  { name = "internet", url = "" },
+  { name = "", url = "" },
+]
