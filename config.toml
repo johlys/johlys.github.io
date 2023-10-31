@@ -5,9 +5,9 @@
 #
 #=========================================================================================
 
-base_url = "https://example.com"      # Domain name of your website
+base_url = "https://johlys.github.io"      # Domain name of your website
 title = "johlys | Johannes"
-description = "xxxx xxxx xxxx"
+description = "Projects"
 default_language = "en"
 theme = "serene"
 output_dir = "public"
