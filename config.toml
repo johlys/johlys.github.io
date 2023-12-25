@@ -7,7 +7,7 @@
 
 base_url = "https://johlys.github.io"      # Domain name of your website
 title = "johlys | Johannes"
-description = "Projects"
+description = "Projects" # Change
 default_language = "en"
 theme = "serene"
 output_dir = "public"
@@ -43,7 +43,7 @@ anchors = "on"
 
 name = "Johannes"                         # Your name
 id = "johlys"                           # Your id / username / handle
-bio = "Computer Science Student"                          # Your bio
+bio = "Software Developer"                          # Your bio
 avatar = "img/avatar.webp"            # Your avatar
 links = [                             # Your links
     { name = "GitHub", icon = "github", url = "https://github.com/johlys" },

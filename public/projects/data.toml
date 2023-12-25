@@ -1,17 +1,16 @@
 [[project]]
-name = "Data Science project"
-desc = "In this project, machine learning algorithms are used to predict the price of a house based on its features."
-tags = ["data-science", "statistics"]
+name = "Molecule Descriptor Webtool"
+desc = "A simple, user-friendly website where users can input molecules (a string) and use RDkit, an open source Python package, to calculate various descriptors."
+tags = ["python", "web-development", "chemistry"]
 links = [
-  { name = "", url = "" },
-  { name = "", url = "" },
+  { name = "MolDescriptor.com", url = "https://moldescriptor.com/" },
+  { name = "GitHub", url = "https://github.com/masve123/molecule-descriptors-webtool" },
 ]
 
 [[project]]
-name = "Machine Learning Project"
-desc = "A short machine learning project. See links."
-tags = ["machine-learning", "statistics"]
+name = "Geography Game written in Java"
+desc = "Object-oriented geography game written in Java, designed to test the player's knowledge of world flags and capitals. The game is structured around different regions of the world, and players are tasked with guessing the correct flag or capital for each region. The game is built using object-oriented programming principles. The game also includes a scoring system, which encourages players to improve their knowledge and accuracy over time."
+tags = ["oop", "java"]
 links = [
-  { name = "internet", url = "" },
-  { name = "", url = "" },
+  { name = "GitHub", url = "https://github.com/johlys/GeografiSpill" }
 ]
