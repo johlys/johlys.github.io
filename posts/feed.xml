@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>Posts</title>
+	<subtitle>My posts.</subtitle>
+	<link href="https://johlys.github.io/posts/feed.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://johlys.github.io/posts/"/>
+	<updated>2023-10-27T00:00:00+00:00</updated>
+	<id>https://johlys.github.io/posts/feed.xml</id>
+	<entry xml:lang="en">
+		<title>My first post</title>
+		<published>2023-10-27T00:00:00+00:00</published>
+		<updated>2023-10-27T00:00:00+00:00</updated>
+		<link href="https://johlys.github.io/posts/first-post/" type="text/html"/>
+		<id>https://johlys.github.io/posts/first-post/</id>
+		<content type="html">&lt;h1 id=&quot;this-is-my-first-post&quot;&gt;This is my first post!&lt;a class=&quot;zola-anchor&quot; href=&quot;#this-is-my-first-post&quot; aria-label=&quot;Anchor link for: this-is-my-first-post&quot;&gt;#&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;p&gt;I am not quite sure what I am doing yet, but I am sure I will figure it out.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>
